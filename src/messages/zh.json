@@ -1,0 +1,233 @@
+{
+  "common": {
+    "loading": "載入中...",
+    "error": "錯誤",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "確認",
+    "save": "儲存",
+    "edit": "編輯",
+    "delete": "刪除",
+    "search": "搜尋",
+    "filter": "篩選",
+    "clear": "清除",
+    "submit": "提交",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步"
+  },
+  "navigation": {
+    "home": "首頁",
+    "about": "關於我們",
+    "services": "服務",
+    "contact": "聯絡我們",
+    "login": "登入",
+    "register": "註冊",
+    "profile": "個人資料",
+    "logout": "登出",
+    "jobs": "工作",
+    "teachers": "教師",
+    "postJobs": "發布工作",
+    "notifications": "通知",
+    "language": "語言",
+    "chinese": "中文",
+    "english": "EN"
+  },
+  "hero": {
+    "title": "連接教師與企業",
+    "subtitle": "為您的教育需求找到完美的教師",
+    "cta": "開始使用",
+    "learnMore": "了解更多",
+    "searchPlaceholder": "搜尋教師、科目或企業...",
+    "searchButton": "搜尋",
+    "joinAsTeacher": "成為教師",
+    "joinAsCompany": "成為企業",
+    "qualifiedTeachers": "認證教師",
+    "partnerCompanies": "合作企業",
+    "successRate": "成功率"
+  },
+  "features": {
+    "title": "為什麼選擇 TeacherMatcher？",
+    "subtitle": "我們讓您輕鬆找到合格的教師",
+    "feature1": {
+      "title": "認證教師",
+      "description": "我們所有的教師都經過驗證和資格認證"
+    },
+    "feature2": {
+      "title": "輕鬆配對",
+      "description": "我們的演算法為您匹配最佳教師"
+    },
+    "feature3": {
+      "title": "彈性排程",
+      "description": "根據您的時間安排課程"
+    }
+  },
+  "howItWorks": {
+    "title": "運作方式",
+    "subtitle": "開始使用 TeacherMatcher 很簡單。按照這四個簡單步驟找到您的完美配對。",
+    "step1": {
+      "title": "建立檔案",
+      "description": "註冊並建立您作為教師或公司的詳細檔案。"
+    },
+    "step2": {
+      "title": "尋找配對",
+      "description": "搜尋和篩選檔案以找到完美配對。"
+    },
+    "step3": {
+      "title": "建立聯繫",
+      "description": "開始對話並與潛在配對討論機會。"
+    },
+    "step4": {
+      "title": "合作",
+      "description": "達成協議並開始您的教育合作關係。"
+    },
+    "readyToStart": {
+      "title": "準備開始了嗎？",
+      "subtitle": "加入數千名已經使用 TeacherMatcher 的教師和公司。",
+      "joinAsTeacher": "成為教師",
+      "joinAsCompany": "成為公司"
+    }
+  },
+  "footer": {
+    "description": "連接全球合格的教師與公司。為您的教育需求找到完美配對，或發現驚人的教學機會。",
+    "quickLinks": {
+      "title": "快速連結",
+      "findTeachers": "尋找教師",
+      "findCompanies": "尋找公司",
+      "aboutUs": "關於我們",
+      "contact": "聯絡我們"
+    },
+    "support": {
+      "title": "支援",
+      "help": "幫助中心",
+      "faq": "常見問題",
+      "contact": "聯絡我們"
+    },
+    "contact": {
+      "title": "聯絡資訊",
+      "email": "contact@teachermatcher.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "台灣台北信義區"
+    },
+    "copyright": "© 2025 TeacherMatcher. 版權所有。",
+    "privacy": "隱私政策",
+    "terms": "服務條款"
+  },
+  "layout": {
+    "title": "TeacherMatcher - 連接教師與企業",
+    "description": "為您的教育需求找到完美的教師"
+  },
+  "teachers": {
+    "title": "找到您的完美教師",
+    "subtitle": "瀏覽我們經過驗證的合格教師，找到符合您學習需求的完美配對",
+    "search": "搜尋",
+    "searchPlaceholder": "條件搜尋...",
+    "subject": "科目",
+    "level": "程度",
+    "allSubjects": "所有科目",
+    "allLevels": "所有程度",
+    "math": "數學",
+    "english": "英文",
+    "science": "科學",
+    "history": "歷史",
+    "elementary": "小學",
+    "middle": "國中",
+    "high": "高中",
+    "university": "大學",
+    "sampleTeacher": "範例教師",
+    "sampleSubject": "數學",
+    "sampleLevel": "高中",
+    "viewProfile": "查看檔案",
+    "yearsExperience": "年經驗",
+    "students": "位學生",
+    "viewMode": "檢視模式",
+    "gridView": "網格檢視",
+    "listView": "列表檢視",
+    "splitView": "分割檢視",
+    "selectTeacher": "選擇教師查看詳細資料",
+    "rating": "評分",
+    "introduction": "簡介",
+    "experience": "經驗",
+    "education": "教育",
+    "certificates": "證書",
+    "teachingExperience": "教學經驗",
+    "views": "瀏覽次數",
+    "profileInfo": "檔案資訊",
+    "teacherId": "教師編號",
+    "resumeId": "履歷編號",
+    "lastUpdated": "最後更新"
+  },
+  "jobs": {
+    "title": "找到您的完美工作",
+    "subtitle": "瀏覽我們的工作列表，找到適合您職業發展的完美機會",
+    "searchPlaceholder": "條件搜尋...",
+    "allSubjects": "所有科目",
+    "allLevels": "所有程度",
+    "math": "數學",
+    "english": "英文",
+    "science": "科學",
+    "history": "歷史",
+    "music": "音樂",
+    "art": "藝術",
+    "physicalEducation": "體育",
+    "generalEducation": "一般教育",
+    "elementary": "小學",
+    "middleSchool": "國中",
+    "highSchool": "高中",
+    "university": "大學",
+    "allTypes": "所有類型",
+    "allLocations": "所有地點",
+    "fullTime": "全職",
+    "partTime": "兼職",
+    "contract": "合約",
+    "freelance": "自由工作者",
+    "online": "線上",
+    "remote": "遠端",
+    "gridView": "網格檢視",
+    "listView": "列表檢視",
+    "description": "工作描述",
+    "requirements": "技能要求",
+    "benefits": "福利待遇",
+    "posted": "發布日期",
+    "applications": "申請人數",
+    "selectJob": "選擇工作查看詳細資料",
+    "selectJobDescription": "從列表中選擇工作以查看完整資訊"
+  },
+  "auth": {
+    "login": {
+      "title": "歡迎回來",
+      "subtitle": "登入您的帳戶以繼續",
+      "email": "電子郵件地址",
+      "password": "密碼",
+      "forgotPassword": "忘記密碼？",
+      "submit": "登入",
+      "loading": "登入中...",
+      "or": "或使用以下方式",
+      "noAccount": "還沒有帳戶？",
+      "signup": "註冊"
+    },
+    "signup": {
+      "title": "建立帳戶",
+      "subtitle": "立即加入 TeacherMatcher",
+      "name": "姓名",
+      "email": "電子郵件地址",
+      "password": "密碼",
+      "confirmPassword": "確認密碼",
+      "submit": "建立帳戶",
+      "loading": "建立中...",
+      "or": "或使用以下方式",
+      "haveAccount": "已有帳戶？",
+      "login": "登入"
+    },
+    "forgotPassword": {
+      "title": "重設密碼",
+      "subtitle": "輸入您的電子郵件以接收重設指示",
+      "email": "電子郵件地址",
+      "submit": "發送重設連結",
+      "loading": "發送中...",
+      "checkEmail": "檢查您的電子郵件",
+      "checkEmailDesc": "我們已發送密碼重設連結給您",
+      "backToLogin": "返回登入"
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout",
+    "jobs": "Jobs",
+    "teachers": "Teachers",
+    "postJobs": "Post Jobs",
+    "notifications": "Notifications",
+    "language": "Language",
+    "chinese": "中文",
+    "english": "EN"
+  },
+  "hero": {
+    "title": "Connect Teachers with Companies",
+    "subtitle": "Find the perfect teacher for your educational needs",
+    "cta": "Get Started",
+    "learnMore": "Learn More",
+    "searchPlaceholder": "Search for teachers, subjects, or companies...",
+    "searchButton": "Search",
+    "joinAsTeacher": "Join as Teacher",
+    "joinAsCompany": "Join as Company",
+    "qualifiedTeachers": "Qualified Teachers",
+    "partnerCompanies": "Partner Companies",
+    "successRate": "Success Rate"
+  },
+  "features": {
+    "title": "Why Choose TeacherMatcher?",
+    "subtitle": "We make it easy to find qualified teachers",
+    "feature1": {
+      "title": "Verified Teachers",
+      "description": "All our teachers are verified and qualified"
+    },
+    "feature2": {
+      "title": "Easy Matching",
+      "description": "Our algorithm matches you with the best teachers"
+    },
+    "feature3": {
+      "title": "Flexible Scheduling",
+      "description": "Schedule lessons at your convenience"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Getting started with TeacherMatcher is simple. Follow these four easy steps to find your perfect match.",
+    "step1": {
+      "title": "Create Profile",
+      "description": "Sign up and create your detailed profile as a teacher or company."
+    },
+    "step2": {
+      "title": "Find Matches",
+      "description": "Search and filter through profiles to find the perfect match."
+    },
+    "step3": {
+      "title": "Connect",
+      "description": "Start conversations and discuss opportunities with potential matches."
+    },
+    "step4": {
+      "title": "Collaborate",
+      "description": "Agree on terms and start your educational partnership."
+    },
+    "readyToStart": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Join thousands of teachers and companies already using TeacherMatcher.",
+      "joinAsTeacher": "Join as Teacher",
+      "joinAsCompany": "Join as Company"
+    }
+  },
+  "footer": {
+    "description": "Connecting qualified teachers with companies worldwide. Find the perfect match for your educational needs or discover amazing teaching opportunities.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "findTeachers": "Find Teachers",
+      "findCompanies": "Find Companies",
+      "aboutUs": "About Us",
+      "contact": "Contact"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Help Center",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "contact@teachermatcher.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "Xinyi District, Taipei, Taiwan"
+    },
+    "copyright": "© 2025 TeacherMatcher. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "layout": {
+    "title": "TeacherMatcher - Connect Teachers with Companies",
+    "description": "Find the perfect teacher for your educational needs"
+  },
+  "teachers": {
+    "title": "Find Your Perfect Teacher",
+    "subtitle": "Browse through our verified and qualified teachers to find the perfect match for your learning needs",
+    "search": "Search",
+    "searchPlaceholder": "Search conditions",
+    "subject": "Subject",
+    "level": "Level",
+    "allSubjects": "All Subjects",
+    "allLevels": "All Levels",
+    "math": "Mathematics",
+    "english": "English",
+    "science": "Science",
+    "history": "History",
+    "elementary": "Elementary",
+    "middle": "Middle School",
+    "high": "High School",
+    "university": "University",
+    "sampleTeacher": "Sample Teacher",
+    "sampleSubject": "Mathematics",
+    "sampleLevel": "High School",
+    "viewProfile": "View Profile",
+    "yearsExperience": "years experience",
+    "students": "students",
+    "viewMode": "View Mode",
+    "gridView": "Grid View",
+    "listView": "List View",
+    "splitView": "Split View",
+    "selectTeacher": "Select a teacher to view details",
+    "rating": "rating",
+    "introduction": "Introduction",
+    "experience": "Experience",
+    "education": "Education",
+    "certificates": "Certificates",
+    "teachingExperience": "teaching experience",
+    "views": "views",
+    "profileInfo": "Profile Information",
+    "teacherId": "Teacher ID",
+    "resumeId": "Resume ID",
+    "lastUpdated": "Last Updated"
+  },
+  "jobs": {
+    "title": "Find Your Perfect Job",
+    "subtitle": "Browse through our job listings to find the perfect opportunity for your career",
+    "searchPlaceholder": "Search conditions",
+    "allSubjects": "All Subjects",
+    "allLevels": "All Levels",
+    "math": "Mathematics",
+    "english": "English",
+    "science": "Science",
+    "history": "History",
+    "music": "Music",
+    "art": "Art",
+    "physicalEducation": "Physical Education",
+    "generalEducation": "General Education",
+    "elementary": "Elementary",
+    "middleSchool": "Middle School",
+    "highSchool": "High School",
+    "university": "University",
+    "allTypes": "All Types",
+    "allLocations": "All Locations",
+    "fullTime": "Full-time",
+    "partTime": "Part-time",
+    "contract": "Contract",
+    "freelance": "Freelance",
+    "online": "Online",
+    "remote": "Remote",
+    "gridView": "Grid View",
+    "listView": "List View",
+    "description": "Description",
+    "requirements": "Requirements",
+    "benefits": "Benefits",
+    "posted": "Posted",
+    "applications": "applications",
+    "selectJob": "Select a job to view details",
+    "selectJobDescription": "Choose a job from the list to see full information"
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account to continue",
+      "email": "Email address",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign In",
+      "loading": "Signing in...",
+      "or": "or continue with",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Join TeacherMatcher today",
+      "name": "Full name",
+      "email": "Email address",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "submit": "Create Account",
+      "loading": "Creating account...",
+      "or": "or continue with",
+      "haveAccount": "Already have an account?",
+      "login": "Sign in"
+    },
+    "forgotPassword": {
+      "title": "Reset Password",
+      "subtitle": "Enter your email to receive reset instructions",
+      "email": "Email address",
+      "submit": "Send Reset Link",
+      "loading": "Sending...",
+      "checkEmail": "Check your email",
+      "checkEmailDesc": "We've sent you a password reset link",
+      "backToLogin": "Back to login"
+    }
+  }
+}
