@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-            - name: Install pnpm
+      - name: Install pnpm
         uses: pnpm/action-setup@v2
         with:
           version: 8
@@ -31,12 +31,12 @@ jobs:
         with:
           node-version: '18'
           cache: 'pnpm'
-          
+
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
       - name: Build with export mode
-        run: npm run build:export
+        run: pnpm run build:export
         env:
           EXPORT_MODE: true
 
