@@ -4,8 +4,8 @@ const withNextIntl = require('next-intl/plugin')('./src/i18n.js');
 const nextConfig = {
   output: process.env.EXPORT_MODE === 'true' ? 'export' : undefined,
   trailingSlash: process.env.EXPORT_MODE === 'true',
-  basePath: process.env.EXPORT_MODE === 'true' ? '/[your-repo-name]' : '',
-  assetPrefix: process.env.EXPORT_MODE === 'true' ? '/[your-repo-name/' : '',
+  basePath: process.env.EXPORT_MODE === 'true' ? '/matcherdemo' : '',
+  assetPrefix: process.env.EXPORT_MODE === 'true' ? '/matcherdemo' : '',
   env: {
     _next_intl_trailing_slash: 'never',
   },
