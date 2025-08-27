@@ -22,6 +22,7 @@ export function Header() {
   const { isAuthenticated, user, logout, init } = useAuthStore();
   const { openAuthPopup } = useAuthPopup();
 
+  const testMes = 'push test'
   useEffect(() => {
     init();
   }, [init]);
